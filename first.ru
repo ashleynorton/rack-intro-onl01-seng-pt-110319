@@ -1,4 +1,4 @@
-require 'rack'
+#require 'rack'
  
 # Instances of Proc automatically have a call method that runs the block that
 # they're initialized with.
